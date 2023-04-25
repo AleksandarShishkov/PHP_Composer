@@ -9,7 +9,7 @@
 packagist.org
 */
 
-require_once 'vendor/autoload.php';
+require_once '../../vendor/autoload.php';
 
 class PHP_library implements ArrayAccess {
 
