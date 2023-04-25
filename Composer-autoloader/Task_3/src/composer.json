@@ -1,0 +1,17 @@
+{
+    "name": "aleks/src",
+    "description": "Lecture 22 Composer package registration",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aleks\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleks"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
